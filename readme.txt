@@ -10,5 +10,8 @@
     - Select File/Clone Repository
     - You should be able to see GitTraining2 that you forked over a few minutes ealier
     - Your local path for Git should be ...../Github/GitTraining2
-5. 
-    
+    - Your Github desktop will show your current Repository = GitTraining2 and your current branch is Master
+5. Open Visual Studio Code or Any editors and point to GitTraining2 directory
+    - Add a new text file with your name
+    - Use Github desktop to commit to local database and push to your online repository
+6. Open your Github repository online and create a pull request to send the change to pearlrough/GitTraining2    
