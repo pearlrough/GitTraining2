@@ -1,1 +1,1 @@
-Nguyen Thu Thuy
+print('Hello')
