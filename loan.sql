@@ -1,2 +1,3 @@
 SELECT NAME, COUNT(ID)
-FROM A ;
+FROM A 
+group by name;
